@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HeaderSpotify/>
+    <HeaderSpotify />
     
   </div>
 </template>
